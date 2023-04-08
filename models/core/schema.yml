@@ -23,4 +23,5 @@ models:
             - not_null:
                 severity: error
       
+  - name: dm_monthly_zone_statistics
       
