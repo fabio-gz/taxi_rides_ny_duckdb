@@ -1,6 +1,7 @@
 .piperider
 .user.yml
 *.duckdb
+*.wal
 venv/
 target/
 dbt_modules/
